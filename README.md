@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Whahidul Islam
-#### web developer
+#### Web Developer
 ![web developer](https://media.licdn.com/dms/image/C4E16AQGZ3tplkHpRWA/profile-displaybackgroundimage-shrink_350_1400/0/1661439630560?e=1678924800&v=beta&t=wZAAopNyhq3MaXb57Hheggx3wC6fmJUvSngTH51kKq8)
 
 I'm a specialist in the web development and programming world and working in this field for more than three years. Also, I have gathered vast knowledge about coding, designing, markup languages, and other things that are related to this sector.
