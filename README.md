@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋, My name is Whahidul Islam</h1>
-<h3 align="center">I'm a specialist in the web development and programming world and working in this field for more than three years. Also, I have gathered vast knowledge about coding, designing, markup languages, and other things that are related to this sector. Also, I never give up and constantly learn new skills and gather more knowledge to be a better version of myself. Skills: JAVASCRIPT/ REACT/ / THREE. JS/ PYTHON / BOOTSTRAP /</h3>
-
+<h3 align="center">I'm a specialist in the web development and programming world and working in this field for more than three years. Also, I have gathered vast knowledge about coding, designing, markup languages, and other things that are related to this sector. I never give up and constantly learn new skills and gather more knowledge to be a better version of myself. 
+  <br/>
+Skills: JAVASCRIPT/ REACT/ / THREE. JS/ PYTHON / BOOTSTRAP /</h3>
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQGGTYtTIj4R5Q/profile-displaybackgroundimage-shrink_350_1400/0/1684754489588?e=1690416000&v=beta&t=NADXuQw7wD_xloJsBH8NpfDfYYubpShFQTonlGIztgo)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-whahid&label=Profile%20views&color=0e75b6&style=flat" alt="md-whahid" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-whahid" alt="md-whahid" /></a> </p>
