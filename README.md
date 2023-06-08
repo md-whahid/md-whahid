@@ -15,14 +15,12 @@ Skills: JAVASCRIPT/ REACT/ / THREE. JS/ PYTHON / BOOTSTRAP /</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-whahid" alt="md-whahid" /></a> </p>
 
-- 🔭 I’m currently working on **REACT**
-
 - 🌱 I’m currently learning **REACT**
 
 - 🤝 I’m looking for help with **THREE. JS**
 
 - 💬 Ask me about **WEB DEVELOPMENT**
-
+<a href="https://app.daily.dev/mdwhahid"><img src="https://api.daily.dev/devcards/2361df06fcf24ebab911da4e99ff59dd.png?r=tp8" width="400" alt="MD.Whahidul Islam's Dev Card"/></a>
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
