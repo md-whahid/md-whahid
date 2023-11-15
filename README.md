@@ -4,7 +4,7 @@
   <br/>
 I never give up and Constantly learning and staying up-to-date with the latest web technologies to be a better version of myself. 
   <br/>
-  <br/>
+
 Skills: JAVASCRIPT/ REACT/ / THREE. JS/ PYTHON / BOOTSTRAP /</h3>
 		<img
 			src="https://media.licdn.com/dms/image/D5616AQGGTYtTIj4R5Q/profile-displaybackgroundimage-shrink_350_1400/0/1684754489588?e=1690416000&v=beta&t=NADXuQw7wD_xloJsBH8NpfDfYYubpShFQTonlGIztgo"
