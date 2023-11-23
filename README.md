@@ -10,24 +10,12 @@ I never give up and Constantly learning and staying up-to-date with the latest w
   <br/>
 
 Skills: JAVASCRIPT/ REACT/ / THREE. JS/ PYTHON / BOOTSTRAP /</h3>
-		<img
-			src="https://media.licdn.com/dms/image/D5616AQGGTYtTIj4R5Q/profile-displaybackgroundimage-shrink_350_1400/0/1684754489588?e=1690416000&v=beta&t=NADXuQw7wD_xloJsBH8NpfDfYYubpShFQTonlGIztgo"
-			alt="Whahidul Islam"
-		/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-whahid&label=Profile%20views&color=0e75b6&style=flat" alt="md-whahid" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-whahid" alt="md-whahid" /></a> </p>
 
 - 🌱 I’m currently learning **REACT**
 
 - 🤝 I’m looking for help with **THREE. JS**
 
 - 💬 Ask me about **WEB DEVELOPMENT**
-<a href="https://app.daily.dev/mdwhahid"><img src="https://api.daily.dev/devcards/2361df06fcf24ebab911da4e99ff59dd.png?r=tp8" width="400" alt="MD.Whahidul Islam's Dev Card"/></a>
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/md-whahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="md-whahid" height="30" width="40" /></a>
