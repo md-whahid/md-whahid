@@ -7,20 +7,6 @@
 I never give up and Constantly learning and staying up-to-date with the latest web technologies to be a better version of myself. 
   <br/>
   <br/>
-  <br/>  <br/>
-  <br/>
-  <br/>  <br/>
-  <br/>
-  <br/>  <br/>
-  <br/>
-  <br/>  <br/>
-  <br/>
-  <br/>  <br/>
-  <br/>
-  <br/>  <br/>
-  <br/>
-  <br/>  <br/>
-  <br/>
   <br/>
 
 Skills: JAVASCRIPT/ REACT/ / THREE. JS/ PYTHON / TAILWIND CSS /</h3>
