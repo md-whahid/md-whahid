@@ -10,8 +10,6 @@ I never give up and Constantly learning and staying up-to-date with the latest w
   <br/>
 Skills: JAVASCRIPT/ REACT/ / THREE. JS/ PYTHON / TAILWIND CSS /</h3>
   <br/>
-  <br/>
-  <br/>
 - 🌱 I’m currently learning **REACT**
 
 - 🤝 I’m looking for help with **THREE. JS**
